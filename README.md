@@ -3,11 +3,11 @@ https://cjsummers003.github.io/liri-node-app
 
 Liri is a command line application that takes user commands and queries from the command line and returns data from API's. The following commands have been hard coded into the program to give the user the capability to look up songs, concerts and movie information:
 <br>
-<strong>concertThis</strong> - Uses the bandsintown API to takes a band's name form the user and returns that bands upcoming concert.
+<strong>concertthis</strong> - Uses the bandsintown API to takes a band's name form the user and returns that bands upcoming concert.
 <br>
-<strong>spotifyThis</strong> - Uses the spotify API to take a song title from the user and return the artist, song name, spotify link and album.
+<strong>spotifythissong</strong> - Uses the spotify API to take a song title from the user and return the artist, song name, spotify link and album.
 <br>
-<strong>movieThis</strong> - Uses the OMDB API to take in a movie title and return the title, cast, release year, IMDB and Rotten Apple rating, country, language and plot.
+<strong>moviethis</strong> - Uses the OMDB API to take in a movie title and return the title, cast, release year, IMDB and Rotten Apple rating, country, language and plot.
 <br>
 
 <h2><strong>How to Use</strong></h2>
