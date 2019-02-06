@@ -1,4 +1,4 @@
-# liri-node-app
+# liri bot
 
 Liri is a command line application that takes user commands and queries from the command line and returns data from API's. The following commands have been hard coded into the program to give the user the capability to look up songs, concerts and movie information:
 <br>
@@ -33,24 +33,23 @@ Read more about these methods <a href="http://www.npmjs.com">here</a>
 <h2><strong>Functionality</strong></h2>
 * Bands In Town 
 * To run this API simply type the following in the terminal node liri.js concertthis (place band name here)
-<img src="images/concertthis.png">
+<img src="images/concertthis.PNG">
 <br>
 <br>
 * Spotify
 * To run this API simply the following in the terminal node liri.js spotifythissong (place song title here)
-<img src="images/spotifythissong.png">
+<img src="images/spotifythissong.PNG">
 <br>
 <br>
 * OMDB
 * To run this API simply type the following in the terminal node liri.js  moviethis (place movie title here)
-<img src="images/moviethis.png">
+<img src="images/moviethis.PNG">
 <br>
 <br>
 * Do What It Says 
 * To run this simply type the following in the terminal node liri.js dowhatitsays
 * This will grab the information from the random.txt file and use the Spotify API and display the following info:
-<img src="images/dowhatitsays.png">
-<img src="images/dowhatitsays2.png">
+<img src="images/dowhatitsays.PNG">
 <br>
 <br>
 
