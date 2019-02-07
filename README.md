@@ -49,6 +49,7 @@ Read more about these methods <a href="http://www.npmjs.com">here</a>
 <br>
 * Do What It Says 
 * To run this simply type the following in the terminal node liri.js dowhatitsays
+<br>
 * This will grab the information from the random.txt file and use the Spotify API and display the following info:
 <img src="images/dowhatitsays.PNG">
 <br>
